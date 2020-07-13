@@ -6,3 +6,4 @@ end
 test revert
 first
 second
+three
